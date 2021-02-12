@@ -1,4 +1,10 @@
 import React, { useState, useEffect } from 'react';
+import {
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+
 import './App.css';
 
 function App() {
@@ -43,9 +49,9 @@ function App() {
         <div className="col-md-10">
           <ul className="phones">
             {phones.map(phone => (
-              <li key={phone.age}>
+              <li key={phone.age} className="thumbnail">
                 <a href={`#!/phones/${phone.id}`} className="thumb">
-                  <img alt={phone.id} src={phone.imageURL}/>
+                  <img alt={phone.id} src={phone.imageUrl} />
                 </a>
                 <div className="phones__btn-buy-wrapper">
                   <a className="btn btn-success" href="#buy">
