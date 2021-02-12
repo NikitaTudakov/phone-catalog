@@ -6,7 +6,7 @@ function App() {
   const [phones, setPhones] = useState([]);
 
   useEffect(() => {
-    fetch('/api/phones.json')
+    fetch('https://nikitatudakov.github.io/phone-catalog/api/phones.json')
     .then(response => response.json())
     .then(result =>  setPhones(result))
   }, []);
