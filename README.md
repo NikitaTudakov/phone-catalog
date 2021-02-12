@@ -1,1 +1,1 @@
-[LINK]https://NikitaTudakov.github.io/phone-catalog
+[LINK](https://NikitaTudakov.github.io/phone-catalog)
