@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/phone-catalog/static/css/main.0dae1b62.chunk.css",
-    "main.js": "/phone-catalog/static/js/main.0281cd1a.chunk.js",
-    "main.js.map": "/phone-catalog/static/js/main.0281cd1a.chunk.js.map",
-    "runtime-main.js": "/phone-catalog/static/js/runtime-main.7a52eb78.js",
-    "runtime-main.js.map": "/phone-catalog/static/js/runtime-main.7a52eb78.js.map",
-    "static/js/2.1870c9b5.chunk.js": "/phone-catalog/static/js/2.1870c9b5.chunk.js",
-    "static/js/2.1870c9b5.chunk.js.map": "/phone-catalog/static/js/2.1870c9b5.chunk.js.map",
-    "static/js/3.53120053.chunk.js": "/phone-catalog/static/js/3.53120053.chunk.js",
-    "static/js/3.53120053.chunk.js.map": "/phone-catalog/static/js/3.53120053.chunk.js.map",
-    "index.html": "/phone-catalog/index.html",
-    "static/css/main.0dae1b62.chunk.css.map": "/phone-catalog/static/css/main.0dae1b62.chunk.css.map",
-    "static/js/2.1870c9b5.chunk.js.LICENSE.txt": "/phone-catalog/static/js/2.1870c9b5.chunk.js.LICENSE.txt"
+    "main.css": "/NikitaTudakov/phone-catalog/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/NikitaTudakov/phone-catalog/static/js/main.2e3d6409.chunk.js",
+    "main.js.map": "/NikitaTudakov/phone-catalog/static/js/main.2e3d6409.chunk.js.map",
+    "runtime-main.js": "/NikitaTudakov/phone-catalog/static/js/runtime-main.cfa84ab6.js",
+    "runtime-main.js.map": "/NikitaTudakov/phone-catalog/static/js/runtime-main.cfa84ab6.js.map",
+    "static/js/2.6c031bd8.chunk.js": "/NikitaTudakov/phone-catalog/static/js/2.6c031bd8.chunk.js",
+    "static/js/2.6c031bd8.chunk.js.map": "/NikitaTudakov/phone-catalog/static/js/2.6c031bd8.chunk.js.map",
+    "static/js/3.5d713388.chunk.js": "/NikitaTudakov/phone-catalog/static/js/3.5d713388.chunk.js",
+    "static/js/3.5d713388.chunk.js.map": "/NikitaTudakov/phone-catalog/static/js/3.5d713388.chunk.js.map",
+    "index.html": "/NikitaTudakov/phone-catalog/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/NikitaTudakov/phone-catalog/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6c031bd8.chunk.js.LICENSE.txt": "/NikitaTudakov/phone-catalog/static/js/2.6c031bd8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NikitaTudakov/phone-catalog/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a52eb78.js",
-    "static/js/2.1870c9b5.chunk.js",
-    "static/css/main.0dae1b62.chunk.css",
-    "static/js/main.0281cd1a.chunk.js"
+    "static/js/runtime-main.cfa84ab6.js",
+    "static/js/2.6c031bd8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2e3d6409.chunk.js"
   ]
 }
